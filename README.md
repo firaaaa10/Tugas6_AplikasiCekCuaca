@@ -1,11 +1,13 @@
-#Pembuat
+# Pembuat
 Nama     : Siti Safira
 NPM      : 2210010336
 
 # 1. Deskripsi Program
 Aplikasi ini memungkinkan pengguna untuk:
 • Integrasi dengan API cuaca eksternal (misalnya OpenWeatherMap) untuk mendapatkan data cuaca secara real-time
+
 • Tampilkan data cuaca dalam bentuk gambar berdasarkan kondisi cuaca (cerah, berawan, hujan, dan sebagainya)
+
 • Menyimpan data cuaca dalam format CSV untuk digunakan di masa mendatang.
 
 # 2. Komponen GUI: JFrame, JPanel, JLabel, JTextField, JButton, JComboBox
@@ -162,3 +164,6 @@ private void simpanKotaKeFile() {
     }   
 ```
 # 6. Tampilan Pada Saat Aplikasi Di Jalankan
+https://github.com/firaaaa10/Tugas6_AplikasiCekCuaca/blob/main/Cuplikan%20layar%202024-11-11%20162855.png
+
+# 7. Indikator Penilaian
