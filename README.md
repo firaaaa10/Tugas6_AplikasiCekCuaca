@@ -22,8 +22,8 @@ Aplikasi ini memungkinkan pengguna untuk:
 - JButton untuk menyimpan lokasi favorit.
 - JButton untuk mengekspor data ke CSV.
 - JButton untuk memuat data dari CSV ke tabel.
-- JLabel (weatherIconLabel) untuk menampilkan ikon cuaca.
-- JTable (weatherDataTable) untuk menampilkan data cuaca yang tersimpan di file CSV.
+- JLabel untuk menampilkan ikon cuaca.
+- JTable untuk menampilkan data cuaca yang tersimpan di file CSV.
    
 # 3. Logika Program: API eksternal, penampilan gambar
 - Koneksi API: Buat fungsi untuk mengambil data dari API OpenWeatherMap berdasarkan kota yang dimasukkan.
