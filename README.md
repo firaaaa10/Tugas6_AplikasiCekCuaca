@@ -164,6 +164,15 @@ private void simpanKotaKeFile() {
     }   
 ```
 # 6. Tampilan Pada Saat Aplikasi Di Jalankan
-https://github.com/firaaaa10/Tugas6_AplikasiCekCuaca/blob/main/Cuplikan%20layar%202024-11-11%20162855.png
+![](https://github.com/firaaaa10/Tugas6_AplikasiCekCuaca/blob/main/Cuplikan%20layar%202024-11-11%20162855.png)
 
-# 7. Indikator Penilaian
+## Indikator Penilaian:
+
+| No  | Komponen         |  Persentase  |
+| :-: | --------------   |   :-----:    |
+|  1  | Komponen GUI     |    10    |
+|  2  | Logika Program   |    20    |
+|  3  |  Events          |    10    |
+|  4  | Kesesuaian UI    |    20    |
+|  5  | Memenuhi Variasi |    40    |
+|     | *TOTAL*        | *100* |
